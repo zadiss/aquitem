@@ -267,7 +267,7 @@
 1897,0,1898,0,2009,0,2010,0,0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
- <layer id="2" name="output_ground_top" width="19" height="45">
+ <layer id="2" name="output_ground_top" width="19" height="45" visible="0">
   <data encoding="csv">
 2853,2854,2855,0,1169,0,1688,0,1609,0,3457,0,0,159,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,168,0,0,0,0,0,
@@ -316,7 +316,7 @@
 1641,0,1642,0,1753,0,1754,0,0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
- <layer id="6" name="output1_ground_top" width="19" height="45">
+ <layer id="6" name="output1_ground_top" width="19" height="45" visible="0">
   <data encoding="csv">
 2853,2854,2855,0,1169,0,1688,0,1609,0,3457,0,0,159,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,168,0,0,0,0,0,
@@ -365,7 +365,7 @@
 1754,0,1641,0,1642,0,1753,0,0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
- <layer id="7" name="output2_ground_top" width="19" height="45">
+ <layer id="7" name="output2_ground_top" width="19" height="45" visible="0">
   <data encoding="csv">
 2853,2854,2855,0,1169,0,1688,0,1609,0,3457,0,0,159,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,168,0,0,0,0,0,
@@ -414,7 +414,7 @@
 1753,0,1754,0,1641,0,1642,0,0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
- <layer id="8" name="output3_ground_top" width="19" height="45">
+ <layer id="8" name="output3_ground_top" width="19" height="45" visible="0">
   <data encoding="csv">
 2853,2854,2855,0,1169,0,1688,0,1609,0,3457,0,0,159,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,168,0,0,0,0,0,
@@ -463,7 +463,7 @@
 1642,0,1753,0,1754,0,1641,0,0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
- <layer id="9" name="output4_ground_top" width="19" height="45">
+ <layer id="9" name="output4_ground_top" width="19" height="45" visible="0">
   <data encoding="csv">
 2853,2854,2855,0,1169,0,1688,0,1609,0,3457,0,0,159,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,168,0,0,0,0,0,
@@ -512,7 +512,7 @@
 1641,0,1642,0,1753,0,1754,0,0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
- <layer id="10" name="output5_ground_top" width="19" height="45">
+ <layer id="10" name="output5_ground_top" width="19" height="45" visible="0">
   <data encoding="csv">
 2853,2854,2855,0,1169,0,1688,0,1609,0,3457,0,0,159,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,168,0,0,0,0,0,
@@ -561,7 +561,7 @@
 1754,0,1641,0,1642,0,1753,0,0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
- <layer id="11" name="output6_ground_top" width="19" height="45">
+ <layer id="11" name="output6_ground_top" width="19" height="45" visible="0">
   <data encoding="csv">
 2853,2854,2855,0,1169,0,1688,0,1609,0,3457,0,0,159,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,168,0,0,0,0,0,
@@ -610,7 +610,7 @@
 1753,0,1754,0,1641,0,1642,0,0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
- <layer id="12" name="output7_ground_top" width="19" height="45">
+ <layer id="12" name="output7_ground_top" width="19" height="45" visible="0">
   <data encoding="csv">
 2853,2854,2855,0,1169,0,1688,0,1609,0,3457,0,0,159,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,168,0,0,0,0,0,
@@ -659,7 +659,7 @@
 1642,0,1753,0,1754,0,1641,0,0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
- <layer id="13" name="output8_ground_top" width="19" height="45">
+ <layer id="13" name="output8_ground_top" width="19" height="45" visible="0">
   <data encoding="csv">
 2853,2854,2855,0,1169,0,1688,0,1609,0,3457,0,0,159,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,168,0,0,0,0,0,
@@ -708,7 +708,7 @@
 1641,0,1642,0,1753,0,1754,0,0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
- <layer id="14" name="output9_ground_top" width="19" height="45">
+ <layer id="14" name="output9_ground_top" width="19" height="45" visible="0">
   <data encoding="csv">
 2853,2854,2855,0,1169,0,1688,0,1609,0,3457,0,0,159,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,168,0,0,0,0,0,
