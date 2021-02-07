@@ -180,7 +180,7 @@
 0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
- <layer id="3" name="input_ground" width="10" height="10">
+ <layer id="3" name="input_start" width="10" height="10">
   <data encoding="csv">
 2684355755,0,2684355739,0,2684355756,0,2684355740,0,2684355724,0,
 0,0,0,0,0,0,0,0,0,0,
@@ -194,7 +194,7 @@
 0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
- <layer id="2" name="output_ground" width="10" height="10">
+ <layer id="2" name="output_start" width="10" height="10">
   <data encoding="csv">
 1229,0,1230,0,1245,0,1246,0,1214,0,
 0,0,0,0,0,0,0,0,0,0,
