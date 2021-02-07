@@ -144,7 +144,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/eleventhmoon\/test\/11th"
+                 "value":"https:\/\/play.workadventu.re\/@\/zadiss\/eleventhmoon\/dev-alienor"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -162,7 +162,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/eleventhmoon\/test\/commerciaux_webmarketing"
+                 "value":"https:\/\/play.workadventu.re\/@\/zadiss\/eleventhmoon\/aquitem_commerciaux_webmarketing_cs"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -180,7 +180,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/eleventhmoon\/test\/fid-stat-cpm"
+                 "value":"https:\/\/play.workadventu.re\/@\/zadiss\/eleventhmoon\/aquitem_fid_stat_cpm"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -198,7 +198,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/eleventhmoon\/test\/dev-aquitem-cpt"
+                 "value":"https:\/\/play.workadventu.re\/@\/zadiss\/eleventhmoon\/aquitem_dev_aquitem_cpt"
                 }],
          "type":"tilelayer",
          "visible":true,
